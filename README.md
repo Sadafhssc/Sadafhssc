@@ -1,16 +1,8 @@
-Yes. I’d keep the README focused on **only the five projects currently pinned on your GitHub profile**:
 
-1. **Savora**
-2. **Quick Blog**
-3. **Data Entry Automation**
-4. **Pomodoro Timer**
-5. **Tesla Stock Alert**
 
-I’d also avoid mentioning projects like the Summarization Agent or VideoTube in the featured-project section until you pin them. That keeps the README consistent with what a recruiter sees first.
+# Hi, I'm Sadaf Javed 
 
-# Hi, I'm Sadaf Javed 👋
-
-### Software Engineering Student | Full-Stack Developer | Python & Automation Enthusiast
+### Software Engineering Student | MERN Developer | Python & Automation Enthusiast
 
 I'm a **Software Engineering student at UET Taxila** passionate about building practical software and exploring modern technologies through hands-on development.
 
@@ -18,15 +10,15 @@ My interests include **full-stack web development, Python automation, web scrapi
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-* 🎓 Software Engineering student at **UET Taxila**
-* 💻 Interested in **Full-Stack Web Development**
-* ⚛️ Working with modern JavaScript technologies
-* 🐍 Exploring **Python automation and web scraping**
-* 🌐 Interested in building practical web applications
-* 🧠 Continuously strengthening my software engineering fundamentals
-* 🚀 Learning through projects and hands-on development
+*  Software Engineering student at **UET Taxila**
+*  Interested in **MERN Web Development**
+*  Working with modern JavaScript technologies
+*  Exploring **Python automation and web scraping**
+*  Interested in building practical web applications
+*  Continuously strengthening my software engineering fundamentals
+*  Learning through projects and hands-on development
 
 ---
 
@@ -62,12 +54,11 @@ My interests include **full-stack web development, Python automation, web scrapi
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🍽️ Savora
 
@@ -109,7 +100,7 @@ A Python automation project that monitors stock-related information and provides
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 I'm continuously working on improving my technical and software engineering skills:
 
@@ -125,7 +116,7 @@ I'm continuously working on improving my technical and software engineering skil
 
 ---
 
-## 💡 What I Enjoy Building
+##  What I Enjoy Building
 
 I'm particularly interested in projects that combine **problem-solving, automation, and practical software development**.
 
@@ -143,27 +134,14 @@ I believe every project is an opportunity to learn something new and improve as 
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
 My goal is to grow into a capable software engineer by building meaningful projects, strengthening my fundamentals, learning from experienced developers, and gaining real-world development experience.
 
 > **Learn. Build. Improve. Repeat.**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadafhssc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sadaf's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadafhssc&layout=compact&theme=tokyonight&hide_border=true" alt="Sadaf's Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in connecting with fellow developers, collaborating on projects, learning from the community, and exploring opportunities to grow as a software engineer.
 
@@ -175,9 +153,3 @@ I'm always interested in connecting with fellow developers, collaborating on pro
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and follow my journey as I continue learning, building, and growing as a software engineer.
