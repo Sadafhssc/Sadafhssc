@@ -1,24 +1,23 @@
-
-
 # Hi, I'm Sadaf Javed 
 
 ### Software Engineering Student | MERN Developer | Python & Automation Enthusiast
 
 I'm a **Software Engineering student at UET Taxila** passionate about building practical software and exploring modern technologies through hands-on development.
 
-My interests include **full-stack web development, Python automation, web scraping, and building useful applications that solve real-world problems**. I enjoy learning by creating projects, experimenting with new technologies, and continuously improving my software engineering skills.
+I enjoy developing **full-stack web applications, automation tools, and practical software solutions** while continuously improving my problem-solving and software engineering skills.
 
 ---
 
 ## About Me
 
 *  Software Engineering student at **UET Taxila**
-*  Interested in **MERN Web Development**
-*  Working with modern JavaScript technologies
+*  Interested in **Full-Stack Web Development**
+*  Working with the **MERN Stack**
 *  Exploring **Python automation and web scraping**
-*  Interested in building practical web applications
-*  Continuously strengthening my software engineering fundamentals
-*  Learning through projects and hands-on development
+*  Interested in **SQL and NoSQL databases**
+*  Enjoy building practical and user-focused web applications
+*  Continuously improving my software engineering fundamentals
+*  Learning through hands-on projects and real-world problem solving
 
 ---
 
@@ -32,9 +31,10 @@ My interests include **full-stack web development, Python automation, web scrapi
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Web Development
+###  Web Development
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -42,14 +42,21 @@ My interests include **full-stack web development, Python automation, web scrapi
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### Python & Automation
+###  Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+###  Python & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Tools
+###  Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -58,19 +65,19 @@ My interests include **full-stack web development, Python automation, web scrapi
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
 ### 🍽️ Savora
 
-A full-stack web application built with a dedicated frontend and backend, demonstrating practical full-stack development and application architecture.
+A full-stack web application built with separate frontend and backend components, providing hands-on experience with modern web application development and application architecture.
 
-**Focus:** Full-Stack Development • JavaScript • Frontend & Backend
+**Focus:** Full-Stack Development • JavaScript • Frontend • Backend
 
 ---
 
 ### 📝 Quick Blog
 
-A web application focused on creating a practical blogging experience while exploring modern web development concepts and application functionality.
+A web application focused on building a practical blogging experience while exploring web development, application functionality, and user-facing interfaces.
 
 **Focus:** JavaScript • Web Development • Application Design
 
@@ -78,7 +85,7 @@ A web application focused on creating a practical blogging experience while expl
 
 ### 🤖 Data Entry Automation
 
-A Python-based automation project designed to reduce repetitive manual data-entry tasks and demonstrate practical automation workflows.
+A Python-based automation project designed to simplify repetitive data-entry tasks and explore practical automation workflows.
 
 **Focus:** Python • Automation • Productivity
 
@@ -86,32 +93,32 @@ A Python-based automation project designed to reduce repetitive manual data-entr
 
 ### ⏱️ Pomodoro Timer
 
-A productivity-focused Python application based on the Pomodoro technique, designed to help manage focused work sessions and breaks.
+A productivity application based on the Pomodoro technique, designed to help manage focused work sessions and breaks.
 
-**Focus:** Python • Automation • Productivity Tools
+**Focus:** Python • Productivity • Automation
 
 ---
 
 ### 📈 Tesla Stock Alert
 
-A Python automation project that monitors stock-related information and provides alerts based on predefined conditions.
+A Python-based automation project that monitors stock-related information and provides notifications based on predefined conditions.
 
 **Focus:** Python • APIs • Automation • Notifications
 
 ---
 
-##  Currently Learning
+## Currently Learning
 
-I'm continuously working on improving my technical and software engineering skills:
+I'm continuously expanding my technical knowledge and improving my software engineering practices.
 
-* 🔹 Full-Stack Web Development
-* 🔹 MERN Stack
-* 🔹 Backend Development & REST APIs
+* 🔹 Advanced **MERN Stack Development**
+* 🔹 Backend Development & **REST APIs**
+* 🔹 **MongoDB & SQL** database design
 * 🔹 Python Automation
 * 🔹 Web Scraping
-* 🔹 Database-Driven Applications
+* 🔹 Full-Stack Application Architecture
 * 🔹 Clean & Maintainable Code
-* 🔹 Testing and Debugging
+* 🔹 Testing & Debugging
 * 🔹 Deployment & Development Workflows
 
 ---
@@ -121,29 +128,42 @@ I'm continuously working on improving my technical and software engineering skil
 I'm particularly interested in projects that combine **problem-solving, automation, and practical software development**.
 
 ```text
-Web Applications
-       ↓
-Automation
-       ↓
-Problem Solving
-       ↓
-Practical Software Solutions
+         Web Applications
+                ↓
+         Automation
+                ↓
+         Problem Solving
+                ↓
+         Practical Solutions
 ```
 
-I believe every project is an opportunity to learn something new and improve as a developer.
+I enjoy taking an idea, understanding the problem behind it, and turning it into a functional software solution.
 
 ---
 
-## My Goal
+## 🎯 My Goal
 
-My goal is to grow into a capable software engineer by building meaningful projects, strengthening my fundamentals, learning from experienced developers, and gaining real-world development experience.
+My goal is to grow into a **strong and well-rounded software engineer** by building meaningful projects, strengthening my fundamentals, learning modern technologies, and gaining real-world development experience.
 
 > **Learn. Build. Improve. Repeat.**
 
+---
 
-##  Let's Connect
+## 📊 GitHub
 
-I'm always interested in connecting with fellow developers, collaborating on projects, learning from the community, and exploring opportunities to grow as a software engineer.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadafhssc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sadaf's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadafhssc&layout=compact&theme=tokyonight&hide_border=true" alt="Sadaf's Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on interesting projects, learning from the community, and exploring opportunities to grow as a software engineer.
 
 <p>
   <a href="https://github.com/Sadafhssc">
@@ -153,3 +173,4 @@ I'm always interested in connecting with fellow developers, collaborating on pro
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
