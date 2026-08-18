@@ -21,7 +21,7 @@ I enjoy developing **full-stack web applications, automation tools, and practica
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -31,7 +31,6 @@ I enjoy developing **full-stack web applications, automation tools, and practica
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ###  Web Development
@@ -111,15 +110,15 @@ A Python-based automation project that monitors stock-related information and pr
 
 I'm continuously expanding my technical knowledge and improving my software engineering practices.
 
-* 🔹 Advanced **MERN Stack Development**
-* 🔹 Backend Development & **REST APIs**
-* 🔹 **MongoDB & SQL** database design
-* 🔹 Python Automation
-* 🔹 Web Scraping
-* 🔹 Full-Stack Application Architecture
-* 🔹 Clean & Maintainable Code
-* 🔹 Testing & Debugging
-* 🔹 Deployment & Development Workflows
+*  Advanced **MERN Stack Development**
+*  Backend Development & **REST APIs**
+*  **MongoDB & SQL** database design
+*  Python Automation
+*  Web Scraping
+*  Full-Stack Application Architecture
+*  Clean & Maintainable Code
+*  Testing & Debugging
+*  Deployment & Development Workflows
 
 ---
 
@@ -141,27 +140,13 @@ I enjoy taking an idea, understanding the problem behind it, and turning it into
 
 ---
 
-## 🎯 My Goal
+## My Goal
 
 My goal is to grow into a **strong and well-rounded software engineer** by building meaningful projects, strengthening my fundamentals, learning modern technologies, and gaining real-world development experience.
 
 > **Learn. Build. Improve. Repeat.**
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadafhssc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sadaf's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadafhssc&layout=compact&theme=tokyonight&hide_border=true" alt="Sadaf's Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in connecting with developers, collaborating on interesting projects, learning from the community, and exploring opportunities to grow as a software engineer.
 
